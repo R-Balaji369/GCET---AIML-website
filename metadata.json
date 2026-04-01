@@ -1,0 +1,7 @@
+{
+  "name": "GCET AI & ML Department",
+  "description": "Official website for the Department of Artificial Intelligence and Machine Learning at Geethanjali College of Engineering and Technology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
